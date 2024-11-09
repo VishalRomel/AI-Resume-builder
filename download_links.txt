@@ -1,0 +1,4 @@
+auto-annotated-portfolio
+https://github.com/Yahmed99/auto-annotated-portfolio/archive/refs/heads/main.zip
+SPRING-2024-CSCI-212-111F
+https://github.com/Yahmed99/SPRING-2024-CSCI-212-111F/archive/refs/heads/main.zip
